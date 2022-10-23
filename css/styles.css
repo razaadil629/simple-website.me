@@ -1,0 +1,25 @@
+/***************tag selector***************/
+body{
+  background-color: #FDFDBD;
+}
+
+h1{
+  color: black;
+  font-size: 200px;
+}
+img:hover{
+  background-color: red;
+}
+/***************class selector***************/
+
+.stadium{
+  background-color: blue;
+}
+.football{
+  background-color: skyblue;
+}
+
+/***************id selector***************/
+#like{
+  color: #06283D;
+}
